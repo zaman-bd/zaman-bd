@@ -3,7 +3,7 @@
 
 Welcome to my profile! I'm Web Developer.  
 
-Skills: VUE JS / REACT /PHP/ JS / HTML / CSS
+Skills: VUE JS / REACT /PHP/ Tailwind CSS/ JS / HTML / CSS
 
 - 🌱 I’m currently learning PHP/LARAVEL 
 - 📫 How to reach me: shamsuzzaman000@gmail.com 
